@@ -1,0 +1,22 @@
+-- Donor Registration Output:
+New donor registered: Rahul Sharma (O+)
+
+-- Recipient Registration Output:
+New blood request registered: Aditi Verma (O+) needs 2 units.
+
+-- Blood Donation Output:
+Donation recorded: Donor ID 1 (O+) donated 1 unit.
+Updated Blood Inventory: O+ → 6 units available.
+
+-- Blood Inventory Report:
+BloodGroup | UnitsAvailable
+O+         | 6
+A+         | 5
+B+         | 3
+AB+        | 6
+O-         | 2
+A-         | 1
+
+-- Donation History Report:
+Name          | BloodGroup | DonationDate
+Rahul Sharma  | O+         | 2025-03-20
